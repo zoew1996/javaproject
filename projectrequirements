@@ -1,0 +1,27 @@
+/*1. Allow a salesperson to ring up items using a simple, point-and-click interface. Your store can sell anything (except for pizzas), so populate your POS with inventory items as you see fit.
+
+
+2. The interface should fit on one screen (and, in general, be full-screen).
+	- 	
+3. Purchase items should be added to a JList (or other types of scrollable interface) to allow the clerk to easily select and then edit or remove items during the transaction.
+	-  drawtool app list
+4. A running total of items in the list should be displayed (both number of items and total cost).
+Test problem 2
+Run a method that totals the cart everytime a button is clicked to add or remove an item
+
+
+5. Payment (simulated) should be accepted by cash, check, or credit card.
+-checkbox telling program which method of payment customer is using?
+-then go into logic of cash, check, credit card
+-if cash, a dialog box asking to “insert cash” appears
+-if check, a dialog box asking to make check out to “our company name” appears
+-if credit card, a notification that prompts for credit card number
+
+
+6. Support for coupons, employee discounts, and manager price-overrides should be included.
+-array for coupons? 
+-if statements (logic) whether a certain discount applies to price
+
+
+7. A receipt should be generated (e.g., by drawing to a JPanel) and printed when a button is pressed (this can be in a separate window). 
+	-Load Report Problem (for loop, integers, etc…)*/
