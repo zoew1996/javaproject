@@ -25,3 +25,5 @@ Run a method that totals the cart everytime a button is clicked to add or remove
 
 7. A receipt should be generated (e.g., by drawing to a JPanel) and printed when a button is pressed (this can be in a separate window). 
 	-Load Report Problem (for loop, integers, etc…)*/
+
+This is a test
